@@ -69,7 +69,7 @@ function audioCodec(codec) {
 }
 
 function audioProfile(profile) {
-  if (profile == 'hd') {
+  if (profile.toLowerCase() == 'hc') {
     return '5';
   } else {
     return '2';
