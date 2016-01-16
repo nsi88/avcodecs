@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "description": "Extremely small npm returning codecs string by audio/video codec, profile and level, which can be used in media playlists like m3u8 or mpd'",
   "main": "index.js",
-  "scripts": {
-    "test": "npm test"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/nsi88/avcodecs"
